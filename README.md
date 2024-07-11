@@ -2,15 +2,41 @@
 
 Game of Avalon made in Flutter
 
-## Getting Started
+<img src="https://indieboardsandcards.com/wp-content/uploads/2024/05/Avalon-Big-Box-3d-box.png" width="350" title="Avalon box art">
+*temporary image
 
-This project is a starting point for a Flutter application.
+<br><br>
+<strong>No infringement intended</strong>
 
-A few resources to get you started if this is your first Flutter project:
+# Getting Started
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### What is Avalon? 
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Avalon is a popular board game that involves deception, deduction, and strategy. The objective of the game is to either successfully complete quests as a member of the loyal servants of King Arthur, or to sabotage the quests as a member of the evil minions of Mordred. 
+<br><br>
+The game is played with a group of players, each assigned a specific role with unique abilities and objectives.
+
+### Board setup
+
+- [ ] Explain different setup based on number of players
+- [ ] Explain roles
+- [ ] Role assignment
+
+### Before the game starts
+
+- [ ] Evil reveals itself
+- [ ] Merlin looks into the future
+
+### Game play
+
+- [ ] Explain gameplay in short
+- [ ] Explain teambuilding phase
+- [ ] Explain Quests
+- [ ] Explain winning condition
+- [ ] Explain assassination
+
+### Example game
+- [ ] Write a short example of a game of Avalon consisting of 5 players from start to finish
+
+
+### Full guidebook is available on https://avalon.fun/pdfs/rules.pdf
